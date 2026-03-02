@@ -122,15 +122,3 @@ src_node_id dst_node_id timestamp
 注意：
 
 - 这些脚本里的数据集路径是作者本地绝对路径，使用前请先修改。
-
-## License
-
-本项目核心代码目录包含许可证文件：
-
-- `block_based_temporal_subgraph/LICENSE.txt`
-
-请在分发或二次开发前阅读该文件条款。
-
-## Citation
-
-如果你的工作使用了该时序子图匹配方向的思路，可参考原始相关论文（见 `block_based_temporal_subgraph/README.TXT` 中给出的论文信息）。
