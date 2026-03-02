@@ -1,0 +1,423 @@
+24h:
+wiki-talk-temporal.txt M10.txt 114 88832 165
+wiki-talk-temporal.txt M11.txt 247 71932 173
+wiki-talk-temporal.txt M12.txt 268 324034 164
+wiki-talk-temporal.txt M13.txt 184 94825889 166
+wiki-talk-temporal.txt M1.txt 85 33234451 124
+wiki-talk-temporal.txt M2.txt 993 287167981 167
+wiki-talk-temporal.txt M3.txt 172 904054 165
+wiki-talk-temporal.txt M4.txt 159 147121 123
+wiki-talk-temporal.txt M5.txt 177 41316227 166
+wiki-talk-temporal.txt M6.txt 1397 200391319 172
+wiki-talk-temporal.txt M7.txt 1951 5290465 122
+wiki-talk-temporal.txt M8.txt 541 164156476 170
+wiki-talk-temporal.txt M9.txt 254 5963849 163
+
+sx-stackoverflow.txt M10.txt 818 29980 2127
+sx-stackoverflow.txt M11.txt 2774 419366 1356
+sx-stackoverflow.txt M12.txt 2711 1943828 2245
+sx-stackoverflow.txt M13.txt 1607 16403805 2165
+sx-stackoverflow.txt M1.txt 872 229122198 2246
+sx-stackoverflow.txt M2.txt 791 231825426 2189
+sx-stackoverflow.txt M3.txt 1673 1952703 1332
+sx-stackoverflow.txt M4.txt 1529 500746 2173
+sx-stackoverflow.txt M5.txt 1611 411190264 2163
+sx-stackoverflow.txt M6.txt 2945 1032369509 2134
+sx-stackoverflow.txt M7.txt 1475 799761 2113
+sx-stackoverflow.txt M8.txt 1881 784255798 2164
+sx-stackoverflow.txt M9.txt 1493 1325802 1324
+
+temporal-reddit-reply.txt M10.txt 435361 20676904401 92780
+temporal-reddit-reply.txt M10.txt 423961 20676904401 69172
+10h:
+temporal-reddit-reply.txt M10.txt 91107 3133574177 80778
+temporal-reddit-reply.txt M11.txt 1041869 10683821926 69202
+temporal-reddit-reply.txt M12.txt 1362424 98051663447 79924
+temporal-reddit-reply.txt M13.txt 286117 98647554643 80475
+temporal-reddit-reply.txt M1.txt 63740 8960321493 80998
+temporal-reddit-reply.txt M2.txt 61404 9397603304 69723
+temporal-reddit-reply.txt M3.txt 183757 2895842814 80668
+temporal-reddit-reply.txt M4.txt 227396 740739949 70121
+temporal-reddit-reply.txt M5.txt 250349 63941330056 79881
+temporal-reddit-reply.txt M6.txt 6376829 8163855320160 80710
+temporal-reddit-reply.txt M7.txt 1376525 1841994226 82240
+temporal-reddit-reply.txt M8.txt 1593516 456426162851 80116
+temporal-reddit-reply.txt M9.txt 152039 1383485353 80843
+temporal-reddit-reply.txt M6.txt 0 0 100152
+
+先哈希再二分：
+temporal-reddit-reply.txt M10.txt 78142 3133566062 83276
+temporal-reddit-reply.txt M11.txt 629135 10683565035 83178
+
+优化哈希：
+sx-stackoverflow.txt M10.txt 512 10496 2125
+sx-stackoverflow.txt M10.txt 754 29980 2102
+temporal-reddit-reply.txt M11.txt 602061 10683565035 85670
+
+优化后版本测试：
+temporal-reddit-reply.txt M10.txt 84001 3133566062 85083
+temporal-reddit-reply.txt M11.txt 596446 10683565035 73334
+temporal-reddit-reply.txt M12.txt 829463 98051213971 85391
+temporal-reddit-reply.txt M13.txt 256199 98646419400 73659
+temporal-reddit-reply.txt M1.txt 46348 8952821864 74201
+temporal-reddit-reply.txt M2.txt 64840 9392337418 86803
+temporal-reddit-reply.txt M3.txt 155715 2895749478 84768
+temporal-reddit-reply.txt M4.txt 201053 740702618 84711
+temporal-reddit-reply.txt M5.txt 192753 63912710052 84861
+temporal-reddit-reply.txt M6.txt 4352533 8163855320160 86213
+temporal-reddit-reply.txt M7.txt 822334 1841994226 87776
+temporal-reddit-reply.txt M8.txt 771678 455963682543 84923
+temporal-reddit-reply.txt M9.txt 161336 1383393901 84442
+sx-stackoverflow.txt M10.txt 746 29980 2194
+temporal-reddit-reply.txt M10.txt 412988 20676904401 84294
+temporal-reddit-reply.txt M10.txt 82268 3133574177 73257
+sx-stackoverflow.txt M6.txt 2311 1032369509 2312
+temporal-reddit-reply.txt M7.txt 2118354 4460789427 75738
+temporal-reddit-reply.txt M7.txt 781929 1841994226 75429
+wiki-talk-temporal.txt M6.txt 2573 200406152 626
+wiki-talk-temporal.txt M6.txt 1186 200395081 178
+sx-stackoverflow.txt M6.txt 2439 1032481668 2215
+sx-stackoverflow.txt M6.txt 2404 1032522832 2169
+temporal-reddit-reply.txt M7.txt 930903 1842008867 93937
+wiki-talk-temporal.txt M6.txt 2655 199985961 627
+wiki-talk-temporal.txt M6.txt 1291 200103725 178
+sx-stackoverflow.txt M6.txt 2346 1025768778 2118
+sx-stackoverflow.txt M6.txt 2350 1026246531 2135
+sx-stackoverflow.txt M6.txt 2328 1032369509 1420
+wiki-talk-temporal.txt M6.txt 1173 200391319 137
+sx-stackoverflow.txt M6.txt 2286 1032369509 2315
+temporal-reddit-reply.txt M7.txt 747760 1841994226 84614
+wiki-talk-temporal.txt M6.txt 1276 199866673 134
+wiki-talk-temporal.txt M6.txt 1265 199812222 175
+wiki-talk-temporal.txt M6.txt 1225 199868432 180
+sx-stackoverflow.txt M6.txt 2295 1029658485 2315
+sx-stackoverflow.txt M6.txt 2291 1029542379 1487
+wiki-talk-temporal.txt M6.txt 1243 200391319 177
+wiki-talk-temporal.txt M6.txt 1248 199599068 180
+wiki-talk-temporal.txt M6.txt 1299 199662890 142
+wiki-talk-temporal.txt M6.txt 1235 199799276 180
+wiki-talk-temporal.txt M6.txt 1240 199900075 184
+wiki-talk-temporal.txt M6.txt 1220 199990010 173
+wiki-talk-temporal.txt M6.txt 1261 199983094 141
+wiki-talk-temporal.txt M6.txt 1208 200140946 130
+wiki-talk-temporal.txt M6.txt 1293 199962539 173
+wiki-talk-temporal.txt M6.txt 1257 200150014 180
+wiki-talk-temporal.txt M6.txt 1202 200141610 174
+wiki-talk-temporal.txt M6.txt 1233 200189187 170
+wiki-talk-temporal.txt M6.txt 1282 199772329 147
+wiki-talk-temporal.txt M6.txt 1253 199742362 184
+wiki-talk-temporal.txt M6.txt 1198 199742003 177
+wiki-talk-temporal.txt M6.txt 1198 199692878 133
+wiki-talk-temporal.txt M6.txt 1242 199949701 172
+wiki-talk-temporal.txt M6.txt 1267 200391319 136
+wiki-talk-temporal.txt M6.txt 1214 200391319 135
+sx-stackoverflow.txt M6.txt 2236 1032369509 2129
+sx-stackoverflow.txt M6.txt 2238 1032369509 1438
+sx-stackoverflow.txt M6.txt 2235 1032369509 2144
+wiki-talk-temporal.txt M6.txt 1270 200391319 148
+sx-stackoverflow.txt M6.txt 2344 1032369509 2158
+sx-stackoverflow.txt M6.txt 2245 1032369509 2277
+
+temporal-reddit-reply.txt M5.txt 245901 63941327730 96551
+sx-stackoverflow.txt M6.txt 2314 1032369509 2330
+temporal-reddit-reply.txt M5.txt 246349 63941330056 98173
+sx-stackoverflow.txt M6.txt 2266 1032369509 1516
+temporal-reddit-reply.txt M9.txt 210253 1383485353 96510
+temporal-reddit-reply.txt M9.txt 217369 1383485353 86972
+wiki-talk-temporal.txt M6.txt 1275 200391319 182
+wiki-talk-temporal.txt M6.txt 1270 200391319 177
+wiki-talk-temporal.txt M6.txt 2987 200391319 181
+wiki-talk-temporal.txt M6.txt 1577 200391319 176
+wiki-talk-temporal.txt M6.txt 1269 200391319 170
+sx-stackoverflow.txt M6.txt 2483 1032369509 1403
+sx-stackoverflow.txt M6.txt 2300 1032369509 2159
+temporal-reddit-reply.txt M5.txt 251120 63941330056 85621
+sx-stackoverflow.txt M6.txt 2347 1032369509 2112
+sx-stackoverflow.txt M6.txt 2324 1032369509 2171
+sx-stackoverflow.txt M6.txt 2285 1032369509 2154
+temporal-reddit-reply.txt M5.txt 253275 63941328733 73081
+sx-stackoverflow.txt M6.txt 2332 1032369509 2148
+sx-stackoverflow.txt M6.txt 2313 1032369509 2181
+sx-stackoverflow.txt M6.txt 2271 1032369509 2146
+temporal-reddit-reply.txt M5.txt 245380 63941330056 83741
+sx-stackoverflow.txt M6.txt 2287 1032369509 2280
+sx-stackoverflow.txt M6.txt 2305 1032369509 2277
+temporal-reddit-reply.txt M9.txt 215242 1383485353 96843
+sx-stackoverflow.txt M9.txt 1175 1325802 1471
+wiki-talk-temporal.txt M9.txt 234 5963849 222
+wiki-talk-temporal.txt M6.txt 2554 200391319 618
+wiki-talk-temporal.txt M6.txt 1238 200391319 169
+sx-stackoverflow.txt M6.txt 3496 1032369509 2237
+wiki-talk-temporal.txt M6.txt 1288 200391319 145
+sx-stackoverflow.txt M6.txt 3569 1032369509 2174
+sx-stackoverflow.txt M6.txt 3495 1032369509 2246
+temporal-reddit-reply.txt M9.txt 270091 1383485353 97178
+sx-stackoverflow.txt M6.txt 2355 1032369509 2183
+wiki-talk-temporal.txt M6.txt 2852 200230817 641
+wiki-talk-temporal.txt M6.txt 1431 200246267 179
+wiki-talk-temporal.txt M6.txt 1361 200072957 177
+wiki-talk-temporal.txt M6.txt 5415 199623233 172
+wiki-talk-temporal.txt M6.txt 979 200285610 178
+wiki-talk-temporal.txt M6.txt 1022 200104968 150
+wiki-talk-temporal.txt M6.txt 1115 200028195 177
+wiki-talk-temporal.txt M6.txt 1039 200141878 175
+sx-stackoverflow.txt M6.txt 2303 1032596208 2119
+sx-stackoverflow.txt M6.txt 2293 1032458205 2246
+sx-stackoverflow.txt M6.txt 2437 1032020565 1472
+
+temporal-reddit-reply.txt M1.txt 30825 8959430178 95863
+temporal-reddit-reply.txt M2.txt 42372 9433402300 96301
+wiki-talk-temporal.txt M6.txt 1081 200382807 173
+wiki-talk-temporal.txt M6.txt 1004 200391319 176
+wiki-talk-temporal.txt M6.txt 1059 200386207 135
+wiki-talk-temporal.txt M6.txt 1007 200389771 132
+wiki-talk-temporal.txt M6.txt 1116 200386218 138
+wiki-talk-temporal.txt M6.txt 1008 200391319 174
+sx-stackoverflow.txt M6.txt 2392 1032369509 1394
+sx-stackoverflow.txt M6.txt 2407 1032369509 1398
+
+temporal-reddit-reply.txt M9.txt 161493 1383486260 87426
+sx-stackoverflow.txt M6.txt 2388 1032369509 2157
+wiki-talk-temporal.txt M6.txt 1073 200363947 177
+wiki-talk-temporal.txt M6.txt 9183 199567263 171
+wiki-talk-temporal.txt M6.txt 12553 200391319 172
+wiki-talk-temporal.txt M6.txt 1410 200391319 169
+wiki-talk-temporal.txt M6.txt 1022 200391319 175
+wiki-talk-temporal.txt M6.txt 1122 200391319 169
+wiki-talk-temporal.txt M6.txt 1141 200391319 181
+sx-stackoverflow.txt M6.txt 2443 1032369509 2169
+sx-stackoverflow.txt M6.txt 2432 1032369509 2117
+wiki-talk-temporal.txt M6.txt 1129 200391319 138
+sx-stackoverflow.txt M6.txt 2459 1032369509 2128
+sx-stackoverflow.txt M6.txt 2464 1032369509 2144
+
+
+
+
+最新数据：(后续还要重新测试下wiki和stackoverflow)
+10h:
+temporal-reddit-reply.txt M10.txt 60405 3133574177 86071
+temporal-reddit-reply.txt M11.txt 503284 10683821926 86494
+temporal-reddit-reply.txt M12.txt 597468 98051663436 75504
+temporal-reddit-reply.txt M13.txt 204873 98647554643 85961
+temporal-reddit-reply.txt M1.txt 31830 8960321493 75607
+temporal-reddit-reply.txt M2.txt 43836 9397603304 88292
+temporal-reddit-reply.txt M3.txt 158774 2895842814 76061
+temporal-reddit-reply.txt M4.txt 181695 740739949 86979
+temporal-reddit-reply.txt M5.txt 185335 63941330056 75591
+temporal-reddit-reply.txt M6.txt 2231058 8163855320160 87156
+temporal-reddit-reply.txt M7.txt 636971 1841994225 87758
+temporal-reddit-reply.txt M8.txt 779585 456426162851 87597
+temporal-reddit-reply.txt M9.txt 157839 1383485353 87306
+
+1h
+ethereum.txt M10.txt 301217 206594392880 125106
+ethereum.txt M11.txt 430837 242368757960 109408
+ethereum.txt M12.txt 571431 242261532818 125801
+ethereum.txt M13.txt 244720 123182492485 108891
+ethereum.txt M1.txt 7311 3369768133 129917
+ethereum.txt M2.txt 69424 9632592932 130214
+ethereum.txt M3.txt 24391 6432848392 126766
+ethereum.txt M4.txt 20341 6411498766 130202
+ethereum.txt M5.txt 18430 18361508574 128186
+ethereum.txt M6.txt 8676767 25456069097812 125382
+ethereum.txt M7.txt 2948123 132523259266 129269
+ethereum.txt M8.txt 3199755 1369896631137 108938
+ethereum.txt M9.txt 22532 8145243073 128389
+
+24h:
+wiki:
+wiki-talk-temporal.txt M10.txt 100 88832 176
+wiki-talk-temporal.txt M11.txt 177 71932 180
+wiki-talk-temporal.txt M12.txt 194 324034 182
+wiki-talk-temporal.txt M13.txt 142 94825889 135
+wiki-talk-temporal.txt M1.txt 81 33234451 138
+wiki-talk-temporal.txt M2.txt 787 287167981 181
+wiki-talk-temporal.txt M3.txt 156 904054 135
+wiki-talk-temporal.txt M4.txt 122 147121 176
+wiki-talk-temporal.txt M5.txt 133 41316227 133
+wiki-talk-temporal.txt M6.txt 1127 200391319 178
+wiki-talk-temporal.txt M7.txt 1446 5290465 136
+wiki-talk-temporal.txt M8.txt 443 164156476 175
+wiki-talk-temporal.txt M9.txt 200 5963849 171
+
+stackoverflow:
+sx-stackoverflow.txt M10.txt 785 29980 1408
+sx-stackoverflow.txt M11.txt 2152 419366 2173
+sx-stackoverflow.txt M12.txt 2160 1943828 1364
+sx-stackoverflow.txt M13.txt 1329 16403805 1390
+sx-stackoverflow.txt M1.txt 753 229122198 2107
+sx-stackoverflow.txt M2.txt 708 231825426 1388
+sx-stackoverflow.txt M3.txt 1335 1952703 2180
+sx-stackoverflow.txt M4.txt 1298 500746 1385
+sx-stackoverflow.txt M5.txt 1366 411190264 2183
+sx-stackoverflow.txt M6.txt 2435 1032369509 2224
+sx-stackoverflow.txt M7.txt 1203 799761 2144
+sx-stackoverflow.txt M8.txt 1486 784255798 1395
+sx-stackoverflow.txt M9.txt 1159 1325802 2101
+
+(貌似可以牺牲下cache miss，提高执行速度，后续测试下完全版本)
+temporal-reddit-reply.txt M7.txt 564663 1841994226 48119
+（小块差距大，因为cache miss变多，而且负载不均衡影响不大）
+sx-stackoverflow.txt M6.txt 2674 1032369509 1439
+ethereum.txt M8.txt 3200116 1369896631137 136618
+wiki-talk-temporal.txt M8.txt 460 164156476 133
+sx-stackoverflow.txt M6.txt 2477 1032369509 1449
+ethereum.txt M8.txt 3199755 1369896631137 119861 400GB
+
+包含峰值内存的测试版本：
+
+sx-stackoverflow.txt M6.txt 2792 1032369509 1420 11677932
+sx-stackoverflow.txt M6.txt 2760 1032369509 1399 11677780
+
+新版本测试：
+ethereum.txt M8.txt 3306600 1369896631137 58013 412614124
+temporal-reddit-reply.txt M9.txt 60371 1383485353 42475 118966292
+
+temporal-reddit-reply.txt M4.txt 128305 740739949 50533 114080988
+temporal-reddit-reply.txt M6.txt 2527976 8163855319857 49498 277568080
+
+自适应调参测试：L3完整分块
+24h:
+wiki-talk-temporal.txt M10.txt 94 88832 131 2167256
+wiki-talk-temporal.txt M11.txt 190 71932 123 2169560
+wiki-talk-temporal.txt M12.txt 195 324031 130 2170040
+wiki-talk-temporal.txt M13.txt 153 94825889 135 2168716
+wiki-talk-temporal.txt M1.txt 80 33234451 130 2167332
+wiki-talk-temporal.txt M2.txt 819 287167981 130 2177392
+wiki-talk-temporal.txt M3.txt 139 904054 126 2168452
+wiki-talk-temporal.txt M4.txt 128 147121 130 2168292
+wiki-talk-temporal.txt M5.txt 141 41316227 125 2168320
+wiki-talk-temporal.txt M6.txt 1101 200391319 134 2176672
+wiki-talk-temporal.txt M7.txt 1543 5290465 126 2189728
+wiki-talk-temporal.txt M8.txt 436 164156476 126 2170500
+wiki-talk-temporal.txt M9.txt 179 5963849 154 2170156
+
+sx-stackoverflow.txt M10.txt 819 29980 1003 11927712
+sx-stackoverflow.txt M11.txt 2376 419366 1446 12026428
+sx-stackoverflow.txt M12.txt 2373 1943828 1011 12030532
+sx-stackoverflow.txt M13.txt 1451 16403805 1468 11976152
+sx-stackoverflow.txt M1.txt 808 229122198 1430 11936884
+sx-stackoverflow.txt M2.txt 734 231825426 1484 11964760
+sx-stackoverflow.txt M3.txt 1458 1952703 1500 11975244
+sx-stackoverflow.txt M4.txt 1398 500746 1429 11967668
+sx-stackoverflow.txt M5.txt 1621 411190264 1473 11982196
+sx-stackoverflow.txt M6.txt 2743 1032369509 1408 12043348
+sx-stackoverflow.txt M7.txt 1312 799761 1420 11987020
+sx-stackoverflow.txt M8.txt 1620 784255798 1436 12045680
+sx-stackoverflow.txt M9.txt 1278 1325802 1455 11984356
+
+10h:
+temporal-reddit-reply.txt M10.txt 38692 3133574177 37439 99297768
+temporal-reddit-reply.txt M11.txt 345207 10683821926 46537 160489652
+temporal-reddit-reply.txt M12.txt 456340 98051663446 46641 167072404
+temporal-reddit-reply.txt M13.txt 107386 98647554643 46650 125561320
+temporal-reddit-reply.txt M1.txt 25306 8960321493 47107 94203820
+temporal-reddit-reply.txt M2.txt 17897 9397603260 46446 96368744
+temporal-reddit-reply.txt M3.txt 80434 2895842814 47780 120334192
+temporal-reddit-reply.txt M4.txt 132796 740739949 46067 114259176
+temporal-reddit-reply.txt M5.txt 118726 63941330056 47450 118057776
+temporal-reddit-reply.txt M6.txt 2506346 8163855318742 37634 277323820
+temporal-reddit-reply.txt M7.txt 580017 1841994226 45894 210693292
+temporal-reddit-reply.txt M8.txt 528522 456426118384 46239 210855276
+temporal-reddit-reply.txt M9.txt 61914 1383485353 45948 119130196
+
+1h:
+ethereum.txt M10.txt 326659 206594392880 57156 129772536
+ethereum.txt M11.txt 429194 242368757960 73225 130945176
+ethereum.txt M12.txt 571737 242261532818 71518 131677408
+ethereum.txt M13.txt 260826 123182492485 57376 130434508
+ethereum.txt M1.txt 7307 3369768061 57533 130023984
+ethereum.txt M2.txt 69462 9632592922 73132 133110584
+ethereum.txt M3.txt 23891 6432848391 57307 130431672
+ethereum.txt M4.txt 20765 6411498766 73297 130162776
+ethereum.txt M5.txt 19350 18361508619 57067 130532596
+ethereum.txt M6.txt 9111835 25456069097812 71442 241675180
+ethereum.txt M7.txt 2926381 132523259266 72951 238467376
+ethereum.txt M8.txt 3306600 1369896631137 58013 412614124
+ethereum.txt M9.txt 22282 8145243073 72484 130268572
+
+L3/2cache分块的内存开销：
+24h:
+wiki-talk-temporal.txt M10.txt 91 88832 170 2175456
+wiki-talk-temporal.txt M11.txt 183 71932 171 2179256
+wiki-talk-temporal.txt M12.txt 194 324034 139 2180124
+wiki-talk-temporal.txt M13.txt 153 94825889 178 2178212
+wiki-talk-temporal.txt M1.txt 83 33234451 137 2175332
+wiki-talk-temporal.txt M2.txt 789 287167981 179 2204160
+wiki-talk-temporal.txt M3.txt 135 904054 178 2177664
+wiki-talk-temporal.txt M4.txt 125 147121 178 2177292
+wiki-talk-temporal.txt M5.txt 138 41316227 181 2177628
+wiki-talk-temporal.txt M6.txt 1232 200391319 172 2192524
+wiki-talk-temporal.txt M7.txt 1495 5290465 171 2225132
+wiki-talk-temporal.txt M8.txt 461 164156476 173 2181464
+wiki-talk-temporal.txt M9.txt 210 5963849 177 2179296
+
+sx-stackoverflow.txt M10.txt 787 29980 1408 12184552
+sx-stackoverflow.txt M11.txt 2210 419366 1382 12386352
+sx-stackoverflow.txt M12.txt 2225 1943828 2201 12395760
+sx-stackoverflow.txt M13.txt 1366 16403805 2139 12283288
+sx-stackoverflow.txt M1.txt 795 229122198 1411 12203512
+sx-stackoverflow.txt M2.txt 686 231825426 2231 12259028
+sx-stackoverflow.txt M3.txt 1362 1952703 2112 12281292
+sx-stackoverflow.txt M4.txt 1323 500746 2179 12265676
+sx-stackoverflow.txt M5.txt 1406 411190264 2139 12295988
+sx-stackoverflow.txt M6.txt 2492 1032368847 2128 12418384
+sx-stackoverflow.txt M7.txt 1241 799761 2160 12302252
+sx-stackoverflow.txt M8.txt 1554 784253981 2209 12428460
+sx-stackoverflow.txt M9.txt 1195 1325802 2138 12298696
+
+10h:
+temporal-reddit-reply.txt M10.txt 60887 3133574177 86907 118335308
+temporal-reddit-reply.txt M11.txt 499446 10683821926 85999 243735556
+temporal-reddit-reply.txt M12.txt 591263 98051663440 86452 254202040
+temporal-reddit-reply.txt M13.txt 194527 98647554643 87994 175840868
+temporal-reddit-reply.txt M1.txt 31566 8960321493 87069 109873356
+temporal-reddit-reply.txt M2.txt 43542 9397603304 86817 114372480
+temporal-reddit-reply.txt M3.txt 154659 2895842814 86290 164508572
+temporal-reddit-reply.txt M4.txt 188600 740739949 86478 151622876
+temporal-reddit-reply.txt M5.txt 186288 63941330056 75318 159737784
+temporal-reddit-reply.txt M6.txt 2265872 8163855318937 86378 315751532
+temporal-reddit-reply.txt M7.txt 632348 1841994226 86338 282368908
+temporal-reddit-reply.txt M8.txt 784153 456426162851 76054 313393796
+temporal-reddit-reply.txt M9.txt 156390 1383485353 75779 161896636
+
+1h:
+ethereum.txt M10.txt 320932 206594392880 124889 134592576
+ethereum.txt M11.txt 428658 242368757960 125386 136758004
+ethereum.txt M12.txt 567113 242261532818 109859 137876952
+ethereum.txt M13.txt 259585 123182492485 129013 135843908
+ethereum.txt M1.txt 6878 3369768133 124864 135085700
+ethereum.txt M2.txt 68880 9632592935 130850 141436720
+ethereum.txt M3.txt 23107 6432848392 128209 135837760
+ethereum.txt M4.txt 19244 6411498766 129332 135357560
+ethereum.txt M5.txt 18206 18361508619 124968 136019616
+ethereum.txt M6.txt 9175974 25456069097812 130650 358471920
+ethereum.txt M8.txt 3199755 1369896631137 119861 419512960
+ethereum.txt M7.txt 3050683 132523259266 109696 315669048
+ethereum.txt M9.txt 21932 8145243072 125066 135550448
+
+
+
+test:
+ethereum.txt M10.txt 311637 206594392880 58408 129772144
+ethereum.txt M11.txt 414677 242368757960 73681 130944600
+ethereum.txt M12.txt 572719 242261532818 75512 131677176
+ethereum.txt M13.txt 259665 123182492485 74809 130434256
+ethereum.txt M1.txt 6898 3369766941 72140 130023588
+ethereum.txt M2.txt 68188 9632589845 57275 133110468
+ethereum.txt M3.txt 23105 6432848392 74893 130430980
+ethereum.txt M4.txt 19417 6411498766 74173 130162572
+ethereum.txt M5.txt 18897 18361505684 74433 130532436
+ethereum.txt M6.txt 9135145 25456069097812 58619 242280024
+ethereum.txt M7.txt 2947240 132523259266 74807 238691640
+ethereum.txt M9.txt 21486 8145243073 58399 130268188
+
+内存优化版本：
+wiki-talk-temporal.txt M6.txt 1336 200391319 104 2176056
+sx-stackoverflow.txt M6.txt 3400 1032369509 1474 12043740
+temporal-reddit-reply.txt M10.txt 41425 3133574177 44883 93585116
+temporal-reddit-reply.txt M6.txt 2383402 8163855320160 43969 193065560
+sx-stackoverflow.txt M6.txt 2789 1032369509 1508 11955860
+sx-stackoverflow.txt M6.txt 2957 1032369509 1420 11956448
+ethereum.txt M8.txt 3240383 1369896630385 55571 358514476

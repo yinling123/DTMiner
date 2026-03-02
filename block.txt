@@ -1,0 +1,189 @@
+block: LLC / 2
+ethereum.txt M10.txt 551419
+ethereum.txt M11.txt 449462
+ethereum.txt M12.txt 580132
+ethereum.txt M13.txt 260635
+ethereum.txt M1.txt 6732
+ethereum.txt M2.txt 69413
+ethereum.txt M3.txt 23511
+ethereum.txt M4.txt 19574
+ethereum.txt M5.txt 18513
+ethereum.txt M6.txt 10062332
+ethereum.txt M7.txt 3675602
+ethereum.txt M8.txt 3184544
+ethereum.txt M9.txt 23492
+
+block: LLC / 4 * 3
+ethereum.txt M10.txt 349959
+ethereum.txt M11.txt 795692
+ethereum.txt M12.txt 1173537
+ethereum.txt M13.txt 577845
+ethereum.txt M1.txt 6949
+ethereum.txt M2.txt 71435
+ethereum.txt M3.txt 35311
+ethereum.txt M4.txt 20389
+ethereum.txt M5.txt 23090
+ethereum.txt M6.txt 9867243
+ethereum.txt M7.txt 4304220
+ethereum.txt M7.txt OOM
+ethereum.txt M9.txt 23363
+
+block: LLC 
+ethereum.txt M10.txt 321323
+ethereum.txt M11.txt 461923
+ethereum.txt M12.txt 639350 
+ethereum.txt M13.txt 279457 
+ethereum.txt M1.txt 6851 
+ethereum.txt M2.txt 69393 
+ethereum.txt M3.txt 23552 
+ethereum.txt M4.txt 19998 
+ethereum.txt M5.txt 19374 
+ethereum.txt M6.txt 10118133 
+ethereum.txt M7.txt 3378971 
+ethereum.txt M8.txt 3234839 
+ethereum.txt M9.txt 22591 
+
+block: LLC / 4 * 5
+ethereum.txt M10.txt 307872
+ethereum.txt M11.txt 414564
+ethereum.txt M12.txt 708451
+ethereum.txt M13.txt 272852
+ethereum.txt M1.txt 6600
+ethereum.txt M2.txt 66840
+ethereum.txt M3.txt 23249
+ethereum.txt M4.txt 19281
+ethereum.txt M5.txt 18015
+ethereum.txt M6.txt 9808947
+ethereum.txt M7.txt 3567425
+ethereum.txt M8.txt 3254888
+ethereum.txt M9.txt 21558
+
+block: LLC / 2 * 3
+ethereum.txt M10.txt 322266
+ethereum.txt M11.txt 438005
+ethereum.txt M12.txt 584473
+ethereum.txt M13.txt 259355
+ethereum.txt M1.txt 6685
+ethereum.txt M2.txt 68199
+ethereum.txt M3.txt 23413
+ethereum.txt M4.txt 21663
+ethereum.txt M5.txt 18395
+ethereum.txt M6.txt 10749599
+ethereum.txt M7.txt 3831603
+ethereum.txt M8.txt 3232189
+ethereum.txt M9.txt 22625
+
+block: LLC / 4
+wiki-talk-temporal.txt M10.txt 136 2187472
+wiki-talk-temporal.txt M11.txt 255 2192920
+wiki-talk-temporal.txt M12.txt 247 2193868
+wiki-talk-temporal.txt M13.txt 199 2190556
+wiki-talk-temporal.txt M1.txt 77 2187560
+wiki-talk-temporal.txt M2.txt 784 2226072
+wiki-talk-temporal.txt M3.txt 190 2190824
+wiki-talk-temporal.txt M4.txt 166 2190444
+wiki-talk-temporal.txt M5.txt 174 2190832
+wiki-talk-temporal.txt M6.txt 1652 2213072
+wiki-talk-temporal.txt M7.txt 1594 2267212
+wiki-talk-temporal.txt M8.txt 595 2197284
+wiki-talk-temporal.txt M9.txt 238 2192424
+
+block：LLC / 2
+wiki-talk-temporal.txt M10.txt 118 2173952
+wiki-talk-temporal.txt M11.txt 209 2176512
+wiki-talk-temporal.txt M12.txt 221 2177184
+wiki-talk-temporal.txt M13.txt 173 2175672
+wiki-talk-temporal.txt M1.txt 78 2174104
+wiki-talk-temporal.txt M2.txt 799 2193332
+wiki-talk-temporal.txt M3.txt 158 2175324
+wiki-talk-temporal.txt M4.txt 143 2175092
+wiki-talk-temporal.txt M5.txt 158 2175096
+wiki-talk-temporal.txt M6.txt 1629 2185576
+wiki-talk-temporal.txt M7.txt 1511 2208744
+wiki-talk-temporal.txt M8.txt 505 2177796
+wiki-talk-temporal.txt M9.txt 232 2176628
+
+block: LLC / 4 * 3
+wiki-talk-temporal.txt M10.txt 109 2169420
+wiki-talk-temporal.txt M11.txt 198 2171268
+wiki-talk-temporal.txt M12.txt 210 2171236
+wiki-talk-temporal.txt M13.txt 174 2170452
+wiki-talk-temporal.txt M1.txt 80 2169576
+wiki-talk-temporal.txt M2.txt 824 2173580
+wiki-talk-temporal.txt M3.txt 149 2170496
+wiki-talk-temporal.txt M4.txt 131 2170120
+wiki-talk-temporal.txt M5.txt 147 2170488
+wiki-talk-temporal.txt M6.txt 1251 2179708
+wiki-talk-temporal.txt M7.txt 1578 2181220
+wiki-talk-temporal.txt M8.txt 525 2171932
+wiki-talk-temporal.txt M9.txt 220 2171680
+
+block：LLC 
+wiki-talk-temporal.txt M10.txt 106 2166424
+wiki-talk-temporal.txt M11.txt 221 2168616
+wiki-talk-temporal.txt M12.txt 226 2168672
+wiki-talk-temporal.txt M13.txt 169 2167412
+wiki-talk-temporal.txt M1.txt 79 2166340
+wiki-talk-temporal.txt M2.txt 810 2173896
+wiki-talk-temporal.txt M3.txt 148 2167400
+wiki-talk-temporal.txt M4.txt 134 2167080
+wiki-talk-temporal.txt M5.txt 150 2167340
+wiki-talk-temporal.txt M6.txt 1326 2174756
+wiki-talk-temporal.txt M7.txt 1527 2181448
+wiki-talk-temporal.txt M8.txt 509 2169168
+wiki-talk-temporal.txt M9.txt 229 2168088
+
+
+block：LLC / 4 * 5
+wiki-talk-temporal.txt M10.txt 105 2165296
+wiki-talk-temporal.txt M11.txt 205 2166028
+wiki-talk-temporal.txt M12.txt 215 2166324
+wiki-talk-temporal.txt M13.txt 172 2166252
+wiki-talk-temporal.txt M1.txt 81 2165440
+wiki-talk-temporal.txt M2.txt 819 2180880
+wiki-talk-temporal.txt M3.txt 150 2165732
+wiki-talk-temporal.txt M4.txt 140 2165800
+wiki-talk-temporal.txt M5.txt 150 2165912
+wiki-talk-temporal.txt M6.txt 1363 2169872
+wiki-talk-temporal.txt M7.txt 1595 2187680
+wiki-talk-temporal.txt M8.txt 448 2166784
+wiki-talk-temporal.txt M9.txt 226 2165664
+
+block：LLC / 2 * 3
+wiki-talk-temporal.txt M10.txt 122 2165488
+wiki-talk-temporal.txt M11.txt 207 2167544
+wiki-talk-temporal.txt M12.txt 220 2167652
+wiki-talk-temporal.txt M13.txt 164 2166464
+wiki-talk-temporal.txt M1.txt 83 2165236
+wiki-talk-temporal.txt M2.txt 821 2168944
+wiki-talk-temporal.txt M3.txt 149 2166352
+wiki-talk-temporal.txt M4.txt 149 2166460
+wiki-talk-temporal.txt M5.txt 161 2166180
+wiki-talk-temporal.txt M6.txt 1203 2172760
+wiki-talk-temporal.txt M7.txt 1537 2176024
+wiki-talk-temporal.txt M8.txt 511 2167544
+wiki-talk-temporal.txt M9.txt 238 2166824
+
+block：LLC / 4 * 7
+wiki-talk-temporal.txt M10.txt 128 2164608
+wiki-talk-temporal.txt M11.txt 245 2164964
+wiki-talk-temporal.txt M12.txt 261 2165500
+wiki-talk-temporal.txt M13.txt 207 2165000
+wiki-talk-temporal.txt M1.txt 86 2164744
+wiki-talk-temporal.txt M2.txt 818 2168348
+wiki-talk-temporal.txt M3.txt 188 2165088
+wiki-talk-temporal.txt M4.txt 169 2164804
+wiki-talk-temporal.txt M5.txt 184 2165132
+wiki-talk-temporal.txt M6.txt 1624 2169568
+wiki-talk-temporal.txt M7.txt 1567 2181480
+wiki-talk-temporal.txt M8.txt 631 2165896
+wiki-talk-temporal.txt M9.txt 258 2165072
+wiki-talk-temporal.txt M6.txt 0 2165336
+sx-stackoverflow.txt M6.txt 0 11880624
+sx-stackoverflow.txt M6.txt 0 11880696
+sx-stackoverflow.txt M6.txt 0 11880744
+temporal-reddit-reply.txt M6.txt 0 84351540
+ethereum.txt M6.txt 0 129495976
+wiki-talk-temporal.txt M6.txt 0 2165252
+sx-stackoverflow.txt M6.txt 0 11880604
+temporal-reddit-reply.txt M6.txt 0 84351544

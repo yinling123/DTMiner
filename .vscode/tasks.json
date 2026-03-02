@@ -1,0 +1,59 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "type": "cppbuild",
+            "label": "Build GraphSearch Project",
+            "command": "/usr/bin/g++",
+            "args": [
+                "-std=c++17",
+                "-O0",
+                "-g",
+                "-I/home/chenh/hyb/software/numactl-2.0.17-soft/include",
+                "-o",
+                "${workspaceFolder}/graph_search",
+                "${workspaceFolder}/*.cpp",
+                // "Stats.cpp",
+                // "FastReader.cpp",
+                // "LabeledWeightedGraph.cpp",
+                // "MatchCriteria_Weighted.cpp",
+                // "DegRestriction.cpp",
+                // "GraphReader.cpp",
+                // "GraphMatch.cpp",
+                // "GraphFilter.cpp",
+                // "Roles.cpp",
+                // "ThreadPool.cpp",
+                // "Numa.cpp",
+                // "NumaTool.cpp",
+                // "SearchCERT.cpp",
+                // "WeightRestriction.cpp",
+                // "MatchCriteria_CERT.cpp",
+                // "CertGraph.cpp",
+                // "MatchCriteria.cpp",
+                // "FileIO.cpp",
+                // "MatchCriteria_DataGraph.cpp",
+                // "Attributes.cpp",
+                // "LockFreeQueue.cpp",
+                // "Tests.cpp",
+                // "AttributesDef.cpp",
+                // "Graph.cpp",
+                // "DataGraph.cpp",
+                // "Tools.cpp",
+                // "GraphSearch.cpp",
+                // "main.cpp",
+                // "MemoryPool.cpp",
+                // "CmdArgs.cpp",
+                "-L/home/chenh/hyb/software/numactl-2.0.17-soft/lib",
+                "-Wl,-rpath=/home/chenh/hyb/software/numactl-2.0.17-soft/lib",
+                "-lnuma",
+                "-pthread"
+            ],
+            "options": {
+                "cwd": "${workspaceFolder}"
+            },
+            "problemMatcher": ["$gcc"],
+            "group": "build",
+            "detail": "Optimized build (-O2) with debug symbols"
+        }
+    ]
+}
